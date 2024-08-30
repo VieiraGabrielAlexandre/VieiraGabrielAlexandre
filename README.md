@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<div align="left">
+  <a href="https://github.com/VieiraGabrielAlexandre">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VieiraGabrielAlexandre&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VieiraGabrielAlexandre&layout=compact&langs_count=20&theme=dark"/>
+  </a>
+</div> 
+
 <!--
 **VieiraGabrielAlexandre/VieiraGabrielAlexandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
