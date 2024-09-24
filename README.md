@@ -29,6 +29,8 @@
   <a href="https://www.linkedin.com/in/gabrielalexandrevieira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
+![snake animation](https://github.com/VieiraGabrielAlexandre>/VieiraGabrielAlexandre/blob/output/github-contribution-grid-snake2.svg)
+
 
 <div align="center">
   <a href="https://github.com/VieiraGabrielAlexandre">
