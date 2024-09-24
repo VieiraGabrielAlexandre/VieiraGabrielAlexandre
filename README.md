@@ -40,8 +40,13 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/output/github-contribution-grid-snake.svg">
 </picture>
 
+## Trophies
+
 <div align="center">
   <a href="https://github.com/VieiraGabrielAlexandre">
     <img src="https://github-profile-trophy.vercel.app/?username=VieiraGabrielAlexandre&theme=onedark"/>
   </a>
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=VieiraGabrielAlexandre&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
