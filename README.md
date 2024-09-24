@@ -48,5 +48,7 @@
   </a>
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=VieiraGabrielAlexandre&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+<div align="center">
+  [![](https://visitcount.itsvg.in/api?id=VieiraGabrielAlexandre&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+</div>
 
