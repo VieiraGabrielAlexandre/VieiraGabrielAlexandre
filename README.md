@@ -1,56 +1,53 @@
-## Hi there 👋
+## 👋 Hello World, I'm Gabriel Vieira  
 
-<div align="center">
-  <a href="https://github.com/VieiraGabrielAlexandre">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VieiraGabrielAlexandre&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VieiraGabrielAlexandre&layout=compact&langs_count=10&theme=dark"/>
-  </a>
-</div>
+<p align="center">
+  <a href="mailto:gabriel@vieiragabriel.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gabrielalexandrevieira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=VieiraGabrielAlexandre&color=blue&style=for-the-badge"/>
+</p>
 
 ---
 
-### 🔭 I'm currently working on
-- **Superlógica:** Staff Engineer.
-- **Doar Bem:** Tech Lead (Voluntary).
+### 🚀 About Me
+- 💼 **Staff Engineer @ Superlógica**  
+- 🤝 **Tech Lead (Voluntary) @ Doar Bem**  
+- 📚 Currently studying **Software Architecture**  
+- 👯 Looking to collaborate on **Open Source (Golang & PHP)**  
+- 💬 Ask me about **Clean Code, Software Architecture, my Career**
 
-### 🌱 I’m currently learning
-- **Software Architecture:** Many objetives.
+---
 
-### 👯 I’m looking to collaborate on
-- Open Source projects that focus on **Golang, PHP, any**.
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VieiraGabrielAlexandre&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VieiraGabrielAlexandre&layout=compact&langs_count=8&theme=radical"/>
+</p>
 
-### 💬 Ask me about
-- **My Career:** Anything
-- **Software Development, Clean Arc, Software Arc:** Anything.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VieiraGabrielAlexandre&theme=radical&hide_border=true" alt="streak stats"/>
+</p>
 
-### 📫 How to reach me:
-<div align="center">
-  <a href="mailto:gabriel@vieiragabriel.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/gabrielalexandrevieira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
+---
 
-###
+### 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VieiraGabrielAlexandre&theme=react-dark&hide_border=true" width="100%"/>
+</p>
 
-<br clear="both">
+---
 
-## Snake Game !
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/output/github-contribution-grid-snake.svg">
-</picture>
+### 🐍 Snake Contributions
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
-## Trophies
+---
 
-<div align="center">
-  <a href="https://github.com/VieiraGabrielAlexandre">
-    <img src="https://github-profile-trophy.vercel.app/?username=VieiraGabrielAlexandre&theme=onedark"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=VieiraGabrielAlexandre&label=Profile%20Views&pretty=false" />
-  </a>
-</div>
-
+### 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VieiraGabrielAlexandre&theme=onedark&no-frame=true&row=1&column=6"/>
+</p>
