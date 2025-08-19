@@ -3,17 +3,19 @@
 <p align="center">
   <a href="mailto:gabriel@vieiragabriel.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/gabrielalexandrevieira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://vieiragabriel.com.br/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=VieiraGabrielAlexandre&color=blue&style=for-the-badge"/>
 </p>
 
 ---
 
 ### 🚀 About Me
-- 💼 **Staff Engineer @ Superlógica**  
-- 🤝 **Tech Lead (Voluntary) @ Doar Bem**  
-- 📚 Currently studying **Software Architecture**  
-- 👯 Looking to collaborate on **Open Source (Golang & PHP)**  
-- 💬 Ask me about **Clean Code, Software Architecture, my Career**
+- 💼 **Senior Software Engineer @ Itaú** – apaixonado por resolver problemas complexos com soluções simples e escaláveis.  
+- 🤝 **Tech Lead (Voluntary) @ Doar Bem** – tecnologia a serviço do impacto social.  
+- 📚 Sempre curioso, estudando **arquitetura de software, boas práticas e novas tecnologias**.  
+- 👯 Aberto a colaborar em **projetos Open Source (Golang & PHP)**.  
+- ✨ Gosto de compartilhar aprendizados sobre **Clean Code, Arquitetura e Carreira**.  
+- 🌍 Fora do código, sou alguém que acredita que **a tecnologia é um meio para transformar vidas**.  
 
 ---
 
