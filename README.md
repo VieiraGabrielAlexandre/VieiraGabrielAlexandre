@@ -13,7 +13,7 @@
 - 💼 **Senior Software Engineer @ Itaú** – apaixonado por resolver problemas complexos com soluções simples e escaláveis.  
 - 🤝 **Tech Lead (Voluntary) @ Doar Bem** – tecnologia a serviço do impacto social.  
 - 📚 Sempre curioso, estudando **arquitetura de software, boas práticas e novas tecnologias**.  
-- 👯 Aberto a colaborar em **projetos Open Source (Golang & PHP)**.  
+- 👯 Aberto a colaborar em **projetos Open Source (Golang, PHP, JS & TS, qualquer coisa que ajude as pessoas)**.  
 - ✨ Gosto de compartilhar aprendizados sobre **Clean Code, Arquitetura e Carreira**.  
 - 🌍 Fora do código, sou alguém que acredita que **a tecnologia é um meio para transformar vidas**.  
 
