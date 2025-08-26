@@ -15,10 +15,15 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
+      - name: Debug owner
+        run: |
+          echo "Owner: ${{ github.repository_owner }}"
+
       - name: Generate 3D cards
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}   # <- fornece USERNAME à action
 
       - name: Commit generated images
         uses: stefanzweifel/git-auto-commit-action@v5
