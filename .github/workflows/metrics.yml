@@ -2,13 +2,22 @@ name: Generate GitHub Metrics
 
 on:
   schedule:
-    - cron: "15 12 * * *"   # roda todo dia ~09:15 BRT
+    - cron: "15 12 * * *"   # ~09:15 BRT
   workflow_dispatch: {}
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
@@ -17,7 +26,8 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
-          filename: github-metrics.svg
+          filename: github-metrics.svg   # gera na raiz do repo
+
       - name: Commit metrics file
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
