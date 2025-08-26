@@ -9,9 +9,9 @@
   <img src="https://komarev.com/ghpvc/?username=VieiraGabrielAlexandre&color=blue&style=for-the-badge"/>
 </p>
 
----
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
+
 - 💼 **Senior Software Engineer @ Itaú** – passionate about solving complex problems with simple and scalable solutions.  
 - 🤝 **Tech Lead (Volunteer) @ Doar Bem** – bringing technology to social impact.  
 - 📚 Exploring **software architecture, clean code, and emerging technologies**.  
@@ -21,7 +21,17 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">🌐 Community Contributions</h2>
+
+<p align="center">
+  <a href="https://github.com/VieiraGabrielAlexandre/go-mem-visualizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VieiraGabrielAlexandre&repo=go-mem-visualizer&theme=radical" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VieiraGabrielAlexandre&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VieiraGabrielAlexandre&layout=compact&langs_count=8&theme=radical"/>
@@ -33,7 +43,7 @@
 
 ---
 
-## 🐍 Snake Contributions
+<h2 align="center">🐍 Snake Contributions</h2>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/output/github-contribution-grid-snake-dark.svg">
@@ -44,14 +54,14 @@
 
 ---
 
-## 🧊 3D Contributions
+<h2 align="center">🧊 3D Contributions</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg" height="400" />
 </p>
 
 ---
 
-## 🪄 Summary Cards
+<h2 align="center">🪄 Summary Cards</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/refs/heads/main/profile-summary-card-output/blueberry/0-profile-details.svg" height="180" />
   <img src="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/refs/heads/main/profile-summary-card-output/blueberry/1-repos-per-language.svg" height="180" />
@@ -59,7 +69,7 @@
 
 ---
 
-## ⚡ Tech Stack
+<h2 align="center">⚡ Tech Stack</h2>
 <p align="center">
   
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -68,15 +78,20 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 <br>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS WAF](https://img.shields.io/badge/AWS%20WAF-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </p>
 
