@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=👋+Hello%2C+I'm+Gabriel+Vieira;Senior+Software+Engineer+%40+Itaú;Clean+Architecture+%7C+Open+Source+%7C+Tech+Lead;Always+learning+and+sharing+knowledge" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&width=444&height=60&lines=Always+learning%2C+always+sharing;Code.+Learn.+Share.+Inspire.;Clean+Code%2C+Bold+Ideas%2C+Real+Impact." alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
