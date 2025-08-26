@@ -2,7 +2,7 @@ name: 3D Contributions
 
 on:
   schedule:
-    - cron: "30 12 * * *"   # ~09:30 BRT (ajuste se quiser)
+    - cron: "30 12 * * *"   # ~09:30 BRT
   workflow_dispatch: {}
 
 permissions:
@@ -17,12 +17,11 @@ jobs:
 
       - name: Generate 3D cards
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        with:
-          username: VieiraGabrielAlexandre
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit generated images
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update 3d contrib cards"
-          file_pattern: |
-            profile-3d-contrib/*
+          file_pattern: profile-3d-contrib/*
