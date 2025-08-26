@@ -1,0 +1,28 @@
+name: 3D Contributions
+
+on:
+  schedule:
+    - cron: "30 12 * * *"   # ~09:30 BRT (ajuste se quiser)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate 3D cards
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          username: VieiraGabrielAlexandre
+
+      - name: Commit generated images
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update 3d contrib cards"
+          file_pattern: |
+            profile-3d-contrib/*
