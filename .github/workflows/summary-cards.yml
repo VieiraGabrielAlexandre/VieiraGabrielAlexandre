@@ -12,6 +12,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
       - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
@@ -19,8 +25,6 @@ jobs:
         with:
           USERNAME: VieiraGabrielAlexandre
           BRANCH_NAME: main
-          OUTPUT_PATH: .
           UTC_OFFSET: -3
+          EXCLUDE: ""          # ex.: "Jupyter Notebook, HTML"
           AUTO_PUSH: true
-          EXCLUDE: ""
-          THEME: dracula
