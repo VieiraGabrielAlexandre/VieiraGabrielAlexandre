@@ -82,7 +82,7 @@
 
 ---
 
-## ✍️ Quote of the Day
+<h2 align="center">✍️ Quote of the Day</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </p>
