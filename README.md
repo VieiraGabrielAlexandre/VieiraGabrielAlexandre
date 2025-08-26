@@ -48,7 +48,7 @@
 
 ## 🧊 3D Contributions
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg" height="220" />
+  <img src="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg" height="400" />
 </p>
 
 ---
@@ -70,9 +70,11 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+<br>
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
