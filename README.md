@@ -56,8 +56,8 @@
 
 ## 🪄 Summary Cards
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/main/profile-summary-card-output/dracula/0-profile-details.svg" height="180" />
-  <img src="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/main/profile-summary-card-output/dracula/1-repos-per-language.svg" height="180" />
+  <img src="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/refs/heads/main/profile-summary-card-output/blueberry/0-profile-details.svg" height="180" />
+  <img src="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/refs/heads/main/profile-summary-card-output/blueberry/1-repos-per-language.svg" height="180" />
 </p>
 
 ---
