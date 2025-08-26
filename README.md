@@ -48,8 +48,7 @@
 
 ## 🧊 3D Contributions
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/main/profile-3d-contrib/profile-night-rainbow.svg" height="220" />
-  <img src="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/main/profile-3d-contrib/profile-season-animate.svg" height="220" />
+  <img src="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/refs/heads/main/profile-3d-contrib/profile-night-rainbow.svg" height="220" />
 </p>
 
 ---
