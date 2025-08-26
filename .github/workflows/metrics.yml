@@ -1,0 +1,25 @@
+name: Generate GitHub Metrics
+
+on:
+  schedule:
+    - cron: "15 12 * * *"   # roda todo dia ~09:15 BRT
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: VieiraGabrielAlexandre
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Sao_Paulo
+          filename: github-metrics.svg
+      - name: Commit metrics file
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update metrics"
+          file_pattern: github-metrics.svg
