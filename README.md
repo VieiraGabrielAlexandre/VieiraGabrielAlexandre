@@ -1,4 +1,8 @@
-## 👋 Hello World, I'm Gabriel Vieira  
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=900&lines=👋+Hello%2C+I'm+Gabriel+Vieira;Senior+Software+Engineer+%40+Itaú;Clean+Architecture+%7C+Open+Source+%7C+Tech+Lead;Always+learning+and+sharing+knowledge" alt="Typing SVG" />
+  </a>
+</h1>
 
 <p align="center">
   <a href="mailto:gabriel@vieiragabriel.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -9,17 +13,17 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 - 💼 **Senior Software Engineer @ Itaú** – passionate about solving complex problems with simple and scalable solutions.  
-- 🤝 **Tech Lead (Volunteer) @ Doar Bem** – technology in service of social impact.  
-- 📚 Always curious, studying **software architecture, best practices, and new technologies**.  
-- 👯 Open to collaborating on **Open Source projects (Golang, PHP, JS & TS — anything that helps people)**.  
-- ✨ I enjoy sharing insights on **Clean Code, Architecture, and Career**.  
-- 🌍 Beyond code, I believe **technology is a means to transform lives**.  
+- 🤝 **Tech Lead (Volunteer) @ Doar Bem** – bringing technology to social impact.  
+- 📚 Exploring **software architecture, clean code, and emerging technologies**.  
+- 👯 Open to collaborating on **Open Source projects (Go, PHP, JS/TS – anything that helps people)**.  
+- ✨ Sharing insights on **Clean Code, Architecture, and Career**.  
+- 🌍 Firm believer that **technology is a tool to transform lives**.  
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VieiraGabrielAlexandre&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VieiraGabrielAlexandre&layout=compact&langs_count=8&theme=radical"/>
@@ -31,14 +35,7 @@
 
 ---
 
-### 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VieiraGabrielAlexandre&theme=react-dark&hide_border=true" width="100%"/>
-</p>
-
----
-
-### 🐍 Snake Contributions
+## 🐍 Snake Contributions
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/output/github-contribution-grid-snake-dark.svg">
@@ -49,13 +46,23 @@
 
 ---
 
-### 🏅 Achievements
+## 🧊 3D Contributions
 <p align="center">
-  <img src="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/main/github-metrics.svg" alt="metrics"/>
+  <img src="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/main/profile-3d-contrib/profile-night-rainbow.svg" height="220" />
+  <img src="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/main/profile-3d-contrib/profile-season-animate.svg" height="220" />
 </p>
 
+---
 
-### ⚡ Tech Stack
+## 🪄 Summary Cards
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/main/profile-summary-card-output/dracula/0-profile-details.svg" height="180" />
+  <img src="https://raw.githubusercontent.com/VieiraGabrielAlexandre/VieiraGabrielAlexandre/main/profile-summary-card-output/dracula/1-repos-per-language.svg" height="180" />
+</p>
+
+---
+
+## ⚡ Tech Stack
 <p align="center">
   
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -72,4 +79,11 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
+</p>
+
+---
+
+## ✍️ Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </p>
