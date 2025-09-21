@@ -27,6 +27,9 @@
   <a href="https://github.com/VieiraGabrielAlexandre/go-mem-visualizer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VieiraGabrielAlexandre&repo=go-mem-visualizer&theme=radical" />
   </a>
+  <a href="https://github.com/VieiraGabrielAlexandre/aliasgen">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VieiraGabrielAlexandre&repo=aliasgen&theme=radical" />
+  </a>
 </p>
 
 ---
