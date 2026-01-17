@@ -21,31 +21,6 @@
 
 ---
 
-<h2 align="center">🌐 Community Contributions</h2>
-
-<p align="center">
-  <a href="https://github.com/VieiraGabrielAlexandre/go-mem-visualizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VieiraGabrielAlexandre&repo=go-mem-visualizer&theme=radical" />
-  </a>
-  <a href="https://github.com/VieiraGabrielAlexandre/aliasgen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VieiraGabrielAlexandre&repo=aliasgen&theme=radical" />
-  </a>
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VieiraGabrielAlexandre&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VieiraGabrielAlexandre&layout=compact&langs_count=8&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=VieiraGabrielAlexandre&theme=radical&hide_border=true" alt="streak stats"/>
-</p>
-
----
-
 <h2 align="center">🐍 Snake Contributions</h2>
 <p align="center">
   <picture>
