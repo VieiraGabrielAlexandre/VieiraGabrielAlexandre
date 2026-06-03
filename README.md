@@ -17,7 +17,29 @@
 - 📚 Exploring **software architecture, clean code, and emerging technologies**.  
 - 👯 Open to collaborating on **Open Source projects (Go, PHP, JS/TS – anything that helps people)**.  
 - ✨ Sharing insights on **Clean Code, Architecture, and Career**.  
-- 🌍 Firm believer that **technology is a tool to transform lives**.  
+- 🌍 Firm believer that **technology is a tool to transform lives**.
+  
+---
+
+<h2 align="center">🏆 Brag Document</h2>
+
+<p align="center">
+  A living document with my professional journey, engineering philosophy, projects, achievements, leadership initiatives, technical growth and long-term goals.
+</p>
+
+<p align="center">
+  <a href="https://github.com/VieiraGabrielAlexandre/brag-document">
+    <img src="https://img.shields.io/badge/View%20Brag%20Document-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/VieiraGabrielAlexandre/brag-document">
+    <img src="https://img.shields.io/badge/Engineering%20Journey-Platform%20%26%20Backend-blueviolet?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-2563eb?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Topics-Leadership%20%7C%20Architecture%20%7C%20PDI-059669?style=flat-square"/>
+  </a>
+</p>
 
 ---
 
