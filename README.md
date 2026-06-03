@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/VieiraGabrielAlexandre/brag-document">
+  <a href="https://github.com/VieiraGabrielAlexandre/brag-document/blob/main/README.md">
     <img src="https://img.shields.io/badge/Engineering%20Journey-Platform%20%26%20Backend-blueviolet?style=flat-square"/>
     <img src="https://img.shields.io/badge/Focus-Distributed%20Systems-2563eb?style=flat-square"/>
     <img src="https://img.shields.io/badge/Topics-Leadership%20%7C%20Architecture%20%7C%20PDI-059669?style=flat-square"/>
